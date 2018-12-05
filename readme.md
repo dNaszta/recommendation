@@ -1,0 +1,1 @@
+* for chapter 3 use `https://www.kaggle.com/rounakbanik/the-movies-dataset/downloads/the-movies-dataset.zip/7` content at `src/data/dataset/movies` folder
